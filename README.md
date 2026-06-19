@@ -192,7 +192,7 @@ docker compose up --build
 - PDF extraction assumes text PDFs. Add OCR for scanned documents.
 - Human feedback analytics and approval queues are natural next steps.
 
-## Submission checklist
+<!-- ## Submission checklist
 
 - [x] Three personas detected and displayed
 - [x] 10-20 meaningful knowledge documents, including PDF
@@ -206,5 +206,5 @@ docker compose up --build
 - [ ] Deploy and add the live URL
 - [ ] Record the live 3-8 minute demo using `DEMO_SCRIPT.md`
 
-The final three unchecked deliverables require the candidate's external accounts and live participation; everything inside the repository is ready for them.
+The final three unchecked deliverables require the candidate's external accounts and live participation; everything inside the repository is ready for them. -->
 
