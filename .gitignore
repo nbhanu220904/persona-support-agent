@@ -1,0 +1,10 @@
+.env
+.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
+chroma_db/
+.streamlit/secrets.toml
+
